@@ -1,0 +1,25 @@
+{
+  "name": "classtr",
+  "version": "0.0.1",
+  "description": "Lightweight function to generate React className string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanderheling/classtr.git"
+  },
+  "keywords": [
+    "class",
+    "string",
+    "react",
+    "concat"
+  ],
+  "author": "Sander Heling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanderheling/classtr/issues"
+  },
+  "homepage": "https://github.com/sanderheling/classtr#readme"
+}
