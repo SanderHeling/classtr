@@ -1,6 +1,6 @@
 {
   "name": "classtr",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Lightweight function to generate React className string",
   "main": "index.js",
   "scripts": {
