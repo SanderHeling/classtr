@@ -1,5 +1,7 @@
-declare function classtr(cls: string[]): string;
+declare function classtr(cls: Array<classtr.BoolType>): string;
 
-declare namespace classtr {}
+declare namespace classtr {
+    type BoolType = string | boolean | null | undefined;
+}
 
 export = classtr;
